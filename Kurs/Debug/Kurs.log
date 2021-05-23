@@ -1,0 +1,13 @@
+﻿  MyForm.cpp
+C:\Users\Warwar\source\repos\Kurs\Header.h(29,14): warning C4101: dy: неиспользованная локальная переменная
+C:\Users\Warwar\source\repos\Kurs\Header.h(29,10): warning C4101: dx: неиспользованная локальная переменная
+C:\Users\Warwar\source\repos\Kurs\Header.h(58,14): warning C4101: dy: неиспользованная локальная переменная
+C:\Users\Warwar\source\repos\Kurs\Header.h(58,10): warning C4101: dx: неиспользованная локальная переменная
+C:\Users\Warwar\source\repos\Kurs\Header.h(87,14): warning C4101: dy: неиспользованная локальная переменная
+C:\Users\Warwar\source\repos\Kurs\Header.h(87,10): warning C4101: dx: неиспользованная локальная переменная
+C:\Users\Warwar\source\repos\Kurs\MyForm.h(220,14): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Warwar\source\repos\Kurs\MyForm.h(221,15): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Kurs.vcxproj -> C:\Users\Warwar\source\repos\Kurs\Debug\Kurs.exe

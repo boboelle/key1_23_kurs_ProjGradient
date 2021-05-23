@@ -1,0 +1,4 @@
+C:\Users\Warwar\source\repos\Kurs\Debug\Kurs.vcxprojAssemblyReference.cache
+C:\Users\Warwar\source\repos\Kurs\Debug\Kurs.MyForm.resources
+C:\Users\Warwar\source\repos\Kurs\Debug\Kurs.vcxproj.GenerateResource.cache
+C:\Users\Warwar\source\repos\Kurs\Debug\Kurs.exe
